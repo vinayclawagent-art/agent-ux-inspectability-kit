@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/agent-ux-inspectability-kit"
 score: 8
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-07
+last_improved: 2026-06-08
 tags: [artifact-package, x-intel, agent-ux, inspectability]
 ---
 
@@ -23,6 +23,7 @@ The inspectability details are directly reusable as a Hermes/Mission Control UX 
 
 ## Generated artifacts
 - Prototype: [[../Prototypes/Agent UX Inspectability Kit/inspectability-checklist.html|inspectability-checklist.html]]
+- Trial packet: [[../Prototypes/Agent UX Inspectability Kit/Hermes TUI Inspectability Trial Packet|Hermes TUI Inspectability Trial Packet]]
 - Infographic: [[../Infographics/Agent UX Inspectability Kit/agent-inspectability-stack.svg|agent-inspectability-stack.svg]]
 - Skill draft: [[../Skills/agent-ux-inspectability-review/SKILL|agent-ux-inspectability-review]]
 - Improvement loop: [[../Improvement-Loops/Agent UX Inspectability Kit Loop|Agent UX Inspectability Kit Loop]]
@@ -40,9 +41,12 @@ Show the source idea as a practical loop: intake → scoped agent run → visibl
 Reusable checklist for reviewing agent UIs and CLIs for provenance, background work, and state transparency.
 
 ## Improvement backlog
-- Run one real-world trial and attach evidence rather than claiming validation now.
+- [x] Add a fillable trial packet so the next real run has a single proof path.
+- [ ] Run one real-world trial with [[../Prototypes/Agent UX Inspectability Kit/Hermes TUI Inspectability Trial Packet|Hermes TUI Inspectability Trial Packet]] and attach evidence rather than claiming validation now.
 - Add a worked example from VinClawLabs/Mission Control after first use.
 - Decide whether to promote the skill draft after one successful repeat.
 
 ## Change log
 - 2026-06-07: Created artifact package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.
+
+- 2026-06-08: Added [[../Prototypes/Agent UX Inspectability Kit/Hermes TUI Inspectability Trial Packet|Hermes TUI Inspectability Trial Packet]] and tightened the prototype README for the next real trial; no validation evidence invented.
