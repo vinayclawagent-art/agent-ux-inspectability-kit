@@ -41,6 +41,7 @@ Show the source idea as a practical loop: intake → scoped agent run → visibl
 Reusable checklist for reviewing agent UIs and CLIs for provenance, background work, and state transparency.
 
 ## Improvement backlog
+- Fill [[../Prototypes/Agent UX Inspectability Kit/Post-Trial Debrief Template|Post-Trial Debrief Template]] immediately after the next real trial so promotion decisions are evidence-backed.
 - [x] Add a fillable trial packet so the next real run has a single proof path.
 - [ ] Run one real-world trial with [[../Prototypes/Agent UX Inspectability Kit/Hermes TUI Inspectability Trial Packet|Hermes TUI Inspectability Trial Packet]] and attach evidence rather than claiming validation now.
 - Add a worked example from VinClawLabs/Mission Control after first use.
@@ -50,3 +51,5 @@ Reusable checklist for reviewing agent UIs and CLIs for provenance, background w
 - 2026-06-07: Created artifact package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.
 
 - 2026-06-08: Added [[../Prototypes/Agent UX Inspectability Kit/Hermes TUI Inspectability Trial Packet|Hermes TUI Inspectability Trial Packet]] and tightened the prototype README for the next real trial; no validation evidence invented.
+
+- 2026-06-11: Added [[../Prototypes/Agent UX Inspectability Kit/Post-Trial Debrief Template|Post-Trial Debrief Template]] for post-trial evidence capture.
