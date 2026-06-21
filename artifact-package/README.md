@@ -22,6 +22,7 @@ The inspectability details are directly reusable as a Hermes/Mission Control UX 
 **8/10** — high because the source maps to a repeatable agent/product workflow with visual explanation value and a concrete trial surface.
 
 ## Generated artifacts
+- Promotion decision card: [[../Prototypes/Agent UX Inspectability Kit/Inspectability Promotion Decision Card|Inspectability Promotion Decision Card]]
 - Evidence quality rubric: [[../Prototypes/Agent UX Inspectability Kit/Inspectability Evidence Quality Rubric|Inspectability Evidence Quality Rubric]]
 - Prototype: [[../Prototypes/Agent UX Inspectability Kit/inspectability-checklist.html|inspectability-checklist.html]]
 - Trial packet: [[../Prototypes/Agent UX Inspectability Kit/Hermes TUI Inspectability Trial Packet|Hermes TUI Inspectability Trial Packet]]
@@ -42,6 +43,7 @@ Show the source idea as a practical loop: intake → scoped agent run → visibl
 Reusable checklist for reviewing agent UIs and CLIs for provenance, background work, and state transparency.
 
 ## Improvement backlog
+- Fill [[../Prototypes/Agent UX Inspectability Kit/Inspectability Promotion Decision Card|Inspectability Promotion Decision Card]] after the trial packet, debrief, and rubric are complete so promotion / pilot-only / iterate / hold is explicit before any claim upgrade.
 - Fill [[../Prototypes/Agent UX Inspectability Kit/Post-Trial Debrief Template|Post-Trial Debrief Template]] immediately after the next real trial so promotion decisions are evidence-backed.
 - [x] Add a fillable trial packet so the next real run has a single proof path.
 - [ ] Run one real-world trial with [[../Prototypes/Agent UX Inspectability Kit/Hermes TUI Inspectability Trial Packet|Hermes TUI Inspectability Trial Packet]] and attach evidence rather than claiming validation now.
@@ -49,6 +51,7 @@ Reusable checklist for reviewing agent UIs and CLIs for provenance, background w
 - Decide whether to promote the skill draft after one successful repeat.
 
 ## Change log
+- 2026-06-21: Added [[../Prototypes/Agent UX Inspectability Kit/Inspectability Promotion Decision Card|Inspectability Promotion Decision Card]] to convert future evidence into an explicit promote / pilot-only / iterate / hold decision; card is template-ready, not validation proof.
 - 2026-06-21: Added [[../Prototypes/Agent UX Inspectability Kit/Inspectability Evidence Quality Rubric|Inspectability Evidence Quality Rubric]] so future trial proof is graded before README/prototype/skill claims change; rubric is template-ready, not validation proof.
 - 2026-06-07: Created artifact package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.
 
