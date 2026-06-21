@@ -19,5 +19,8 @@ Use [[Hermes TUI Inspectability Trial Packet]] as the canonical next-run packet 
 ## Evidence index
 - [[Inspectability Trial Evidence Index]] — map future screenshots, logs, state records, decision notes, and patch diffs to the exact claims they are allowed to support. Template-ready; evidence pending.
 
+## Operator handoff
+- [[Inspectability Trial Operator Handoff Checklist]] — use this as the single next-operator sequence before the real trial: packet → debrief → rubric → evidence index → promotion card → claim patches. Template-ready; evidence pending.
+
 ## Promotion gate
 - [[Inspectability Promotion Decision Card]] — fill only after the trial packet, debrief, and rubric to choose promote / pilot-only / iterate / hold with claim-level patch targets. Template-ready; evidence pending.

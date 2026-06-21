@@ -4,7 +4,7 @@ Visible X-Artifact Factory kit generated from [[Grok Build Inspectability and Ba
 
 - Source X: https://x.com/skcd42/status/2061610972868120587
 - GitHub: https://github.com/vinayclawagent-art/agent-ux-inspectability-kit
-- Status: template-ready trial evidence index added; real validation pending
+- Status: template-ready operator handoff added; real validation pending
 
 ## What this repo contains
 
@@ -15,6 +15,7 @@ Visible X-Artifact Factory kit generated from [[Grok Build Inspectability and Ba
 - improvement-loop/ — recurring improvement tracker.
 
 ## Latest artifacts
+- prototype/Inspectability Trial Operator Handoff Checklist.md
 - prototype/Inspectability Trial Evidence Index.md
 - prototype/Inspectability Promotion Decision Card.md
 - prototype/Inspectability Evidence Quality Rubric.md
@@ -24,4 +25,4 @@ Visible X-Artifact Factory kit generated from [[Grok Build Inspectability and Ba
 Open the prototype markdown/HTML files, fill them during a real workflow, and only promote claims after evidence is attached.
 
 ## Latest improvement
-2026-06-21: Added Inspectability Trial Evidence Index so future proof links map to supported README/prototype/skill claim patches before wording changes. Evidence remains pending.
+2026-06-21: Added Inspectability Trial Operator Handoff Checklist so the next operator has a single sequence for packet, debrief, rubric, evidence index, and promotion card before claim patches. Evidence remains pending.
