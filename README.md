@@ -20,3 +20,6 @@ Visible X-Artifact Factory kit generated from [[Grok Build Inspectability and Ba
 
 ## Usage
 Open the prototype markdown/HTML files, fill them during a real workflow, and only promote claims after evidence is attached.
+
+## Latest improvement
+2026-06-21: Added Inspectability Evidence Quality Rubric as the proof-quality gate for the next real trial.

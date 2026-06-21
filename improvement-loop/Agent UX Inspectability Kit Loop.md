@@ -20,6 +20,7 @@ Turn [[Grok Build Inspectability and Background Task UX]] into a reusable, inspe
 - 2026-06-07: Created package README, prototype builder/checklist, infographic, skill draft, isolated repo mirror, and this improvement loop.
 
 ## Next focus
-- Fill [[Post-Trial Debrief Template]] after the next real trial; keep wording template-ready, not validated.
-- Fill [[Hermes TUI Inspectability Trial Packet]] during the next real Hermes TUI or Mission Control inspectability review, then record the promote checklist / pilot-only / iterate checklist / hold decision with source-backed evidence.
-- Keep wording evidence-ready, not validation-complete, until a real trial fills the packet.
+Run the next real Hermes/Mission Control inspectability review, fill the trial packet and post-trial debrief, grade proof with the Inspectability Evidence Quality Rubric, then patch README/prototype/skill claims only where evidence supports them.
+
+## Backlog
+- [x] Add an evidence quality rubric to gate future claims after the first real trial.
