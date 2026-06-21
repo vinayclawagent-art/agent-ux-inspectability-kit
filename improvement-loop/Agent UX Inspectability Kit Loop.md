@@ -15,6 +15,7 @@ tags: [improvement-loop, x-artifact-factory, agent-workflows]
 Turn [[Grok Build Inspectability and Background Task UX]] into a reusable, inspectable artifact package with at least one real-world trial before promotion.
 
 ## Latest improvement
+- 2026-06-21: Added [[Artifacts/Prototypes/Agent UX Inspectability Kit/Inspectability Evidence Quality Rubric|Inspectability Evidence Quality Rubric]] so future proof is graded before any stronger claims or skill promotion. Rubric is ready; no validation proof invented.
 - 2026-06-11: Added [[Post-Trial Debrief Template]] so the next real trial has a post-trial debrief and explicit patch queue before promotion.
 - 2026-06-08: Added [[Hermes TUI Inspectability Trial Packet]] as the single proof path for the next real trial; packet is ready, not validation-complete.
 - 2026-06-07: Created package README, prototype builder/checklist, infographic, skill draft, isolated repo mirror, and this improvement loop.
