@@ -16,5 +16,8 @@ Use [[Hermes TUI Inspectability Trial Packet]] as the canonical next-run packet 
 ## Evidence quality gate
 - [[Inspectability Evidence Quality Rubric]] — grade future real-trial proof before changing README, prototype, or skill-draft claims. Template-ready; evidence pending.
 
+## Evidence index
+- [[Inspectability Trial Evidence Index]] — map future screenshots, logs, state records, decision notes, and patch diffs to the exact claims they are allowed to support. Template-ready; evidence pending.
+
 ## Promotion gate
 - [[Inspectability Promotion Decision Card]] — fill only after the trial packet, debrief, and rubric to choose promote / pilot-only / iterate / hold with claim-level patch targets. Template-ready; evidence pending.
