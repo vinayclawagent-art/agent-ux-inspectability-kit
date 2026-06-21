@@ -4,8 +4,8 @@ status: active
 package: "[[Agent UX Inspectability Kit]]"
 github_repo: "https://github.com/vinayclawagent-art/agent-ux-inspectability-kit"
 cadence: nightly
-last_improved: 2026-06-11
-next_focus: Fill Post-Trial Debrief Template after the next real trial, then decide promote / pilot-only / iterate / hold with evidence.
+last_improved: 2026-06-21
+next_focus: "Run the next real Hermes/Mission Control inspectability review, fill the trial packet and post-trial debrief, grade proof with the Inspectability Evidence Quality Rubric, then patch README/prototype/skill claims only where evidence supports them."
 tags: [improvement-loop, x-artifact-factory, agent-workflows]
 ---
 

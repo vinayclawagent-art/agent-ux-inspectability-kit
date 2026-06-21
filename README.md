@@ -1,28 +1,22 @@
 # Agent UX Inspectability Kit
 
-A static checklist for reviewing whether an agent surface makes plugin/tool origins, shell output, background loops, and parent-session state visible enough for trust.
+Visible X-Artifact Factory kit generated from [[Grok Build Inspectability and Background Task UX]].
 
-## Why this exists
-Inspired by: https://x.com/skcd42/status/2061610972868120587
+- Source X: https://x.com/skcd42/status/2061610972868120587
+- GitHub: https://github.com/vinayclawagent-art/agent-ux-inspectability-kit
+- Status: template-ready evidence quality gate added; real validation pending
 
-## What it does
-- Mirrors the X-Intel artifact package for GitHub-visible progress.
-- Includes a static prototype, infographic, skill draft, and improvement loop.
-- Keeps the source note and decision loop auditable.
+## What this repo contains
 
-## Quickstart
-Open `prototype/inspectability-checklist.html` in a browser. No build step is required.
+- artifact-package/README.md — Obsidian package note mirror.
+- prototype/ — fillable workflow artifacts and small demos.
+- infographic/ — workflow map or visual explanation.
+- skill-draft/ — draft Hermes skill when applicable.
+- improvement-loop/ — recurring improvement tracker.
 
-## Examples
-Use the builder/checklist to produce a markdown handoff, then paste the filled output into the related Obsidian package or project issue.
+## Latest artifacts
+- prototype/Inspectability Evidence Quality Rubric.md
+- prototype/README.md
 
-## Roadmap
-- Add a filled real-world trial packet.
-- Add screenshots or hosted preview URL.
-- Promote or merge the skill draft after a successful repeat.
-
-## Contributing
-This is an artifact-factory output. Keep changes source-linked and evidence-backed.
-
-## 2026-06-11 improvement
-Added `Post-Trial Debrief Template.md` so the next real trial can be debriefed before any promotion claim.
+## Usage
+Open the prototype markdown/HTML files, fill them during a real workflow, and only promote claims after evidence is attached.

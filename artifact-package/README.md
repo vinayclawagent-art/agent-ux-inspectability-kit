@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/agent-ux-inspectability-kit"
 score: 8
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-08
+last_improved: 2026-06-21
 tags: [artifact-package, x-intel, agent-ux, inspectability]
 ---
 
@@ -22,6 +22,7 @@ The inspectability details are directly reusable as a Hermes/Mission Control UX 
 **8/10** — high because the source maps to a repeatable agent/product workflow with visual explanation value and a concrete trial surface.
 
 ## Generated artifacts
+- Evidence quality rubric: [[../Prototypes/Agent UX Inspectability Kit/Inspectability Evidence Quality Rubric|Inspectability Evidence Quality Rubric]]
 - Prototype: [[../Prototypes/Agent UX Inspectability Kit/inspectability-checklist.html|inspectability-checklist.html]]
 - Trial packet: [[../Prototypes/Agent UX Inspectability Kit/Hermes TUI Inspectability Trial Packet|Hermes TUI Inspectability Trial Packet]]
 - Infographic: [[../Infographics/Agent UX Inspectability Kit/agent-inspectability-stack.svg|agent-inspectability-stack.svg]]
@@ -48,6 +49,7 @@ Reusable checklist for reviewing agent UIs and CLIs for provenance, background w
 - Decide whether to promote the skill draft after one successful repeat.
 
 ## Change log
+- 2026-06-21: Added [[../Prototypes/Agent UX Inspectability Kit/Inspectability Evidence Quality Rubric|Inspectability Evidence Quality Rubric]] so future trial proof is graded before README/prototype/skill claims change; rubric is template-ready, not validation proof.
 - 2026-06-07: Created artifact package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.
 
 - 2026-06-08: Added [[../Prototypes/Agent UX Inspectability Kit/Hermes TUI Inspectability Trial Packet|Hermes TUI Inspectability Trial Packet]] and tightened the prototype README for the next real trial; no validation evidence invented.
